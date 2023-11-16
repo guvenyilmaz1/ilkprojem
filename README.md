@@ -1,2 +1,2 @@
 # ilkprojem
-my first homework project with html.
+My first homework project with html.
